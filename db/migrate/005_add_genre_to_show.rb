@@ -2,4 +2,4 @@ class AddGenreToShow < ActiveRecord::Migration[5.1]
   
   def change 
     
-    add_column :show, :season, 
+    add_column :genre, :show
