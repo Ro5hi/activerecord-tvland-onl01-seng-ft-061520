@@ -7,7 +7,7 @@ class Actor < ActiveRecord::Base
     
   end 
   
-  
+  def
   
   
   
